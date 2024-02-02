@@ -14,7 +14,7 @@
 ## :tv: Demonstração
 
 <p align="center">
-  <img alt="Demonstração" src="readme/homepage.png" width="100%">
+  <img alt="Demonstração" src="readme/homepage.png" width="800">
 </p>
 
 ## :hammer_and_wrench: Tecnologias
